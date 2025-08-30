@@ -1,28 +1,30 @@
-# Sales-Analysis-Dashboard
-ss
-<img width="988" height="674" alt="image" src="https://github.com/user-attachments/assets/6f9a476c-897c-4e59-b582-f71b9cfb473e" />
-Sales Analysis Dashboard (Excel)
+# Sales Analysis Dashboard (Excel)
 
-An interactive Excel dashboard built with PivotTables and PivotCharts to analyze sales performance by Year, Quarter, Segment, State, Category, Sub-Category, and Product. The dashboard surfaces core KPIs and allows quick drill-downs via slicers.
+An interactive Excel dashboard built with **PivotTables** and **PivotCharts** to analyze sales by **Year, Quarter, Segment, State, Category, Sub-Category,** and **Product**. The design is slicer-driven and requires no VBA.
 
-✨ Highlights
+<img width="988" height="674" alt="image" src="https://github.com/user-attachments/assets/9f9b167a-3af3-47ea-a79d-a29ea21e439f" />
 
-KPIs: Total Sales, Total Profit, Average Sale, Number of Orders
 
-Interactive filters (slicers): Year, Quarter, Segment, State
+---
 
-Views: Category & Sub-Category performance, Top 10 Products, Sales by State map
+## ✨ Highlights
 
-Built entirely on PivotTables + PivotCharts (no VBA/macros required)
+- **KPIs:** Total Sales, Total Profit, Average Sale, Number of Orders  
+- **Filters (Slicers):** Year, Quarter, Segment, State  
+- **Views:** Category & Sub-Category performance, Top 10 Products, Sales by State map  
+- Built **entirely on PivotTables + PivotCharts** (refreshable; no hardcoded calcs)
 
-🧠 What I Learned / Practiced
+---
 
-PivotTable design (grouping, Value Field Settings, Top N, Show Values As)
+## 🧠 Skills Demonstrated
 
-PivotChart selection and formatting for executive readability
+- PivotTable design: grouping, Value Field Settings, **Top N**, **Show Values As**, custom sort  
+- PivotChart selection & formatting for executive readability  
+- Slicer connections across multiple pivots  
+- Data exploration & cleaning (dates, categories, duplicates, blanks)  
+- Optional Power Query setup for repeatable refresh
 
-Slicer connections across multiple pivots
+---
 
-Data exploration and cleaning (standardizing dates/categories, fixing duplicates, handling blanks)
+## 📁 Repository Structure
 
-Lightweight modeling in Excel for repeatable refreshes (optionally via Power Query)
